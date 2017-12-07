@@ -1,2 +1,0 @@
-C:\programData\Oracle\Java\javapath
-https://github.com/Esvux/LabEDD
